@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bug Bounty<br>👯 I’m looking to collaborate on Anything related to security<br>🤝 I’m looking for help with projects<br>🌱 I’m currently learning Red Teaming<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Bug Bounty<br>👯 I’m looking to collaborate on Anything related to security<br>🤝 I’m looking for help with projects<br>🌱 I’m currently learning Red Teaming<br>💬 Medium : vux06.medium.com<br>
 
 
 # 💻 Tech Stack:
