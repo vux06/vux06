@@ -22,13 +22,13 @@
 
 <div align="center">
 
-&#9670; **Now** &nbsp;&middot;&nbsp; bug bounty hunting
-
-&#9670; **Leveling up** &nbsp;&middot;&nbsp; red teaming
-
-&#9670; **Open to** &nbsp;&middot;&nbsp; security people and collabs worth having
-
-&#9670; **Writes** &nbsp;&middot;&nbsp; notes and write-ups on [Medium](https://vux06.medium.com)
+<img src="https://img.shields.io/badge/NOW-bug%20bounty%20hunting-7c3aed?style=for-the-badge&labelColor=0b0b14" alt="Now: bug bounty hunting" />
+<br/>
+<img src="https://img.shields.io/badge/LEVELING%20UP-red%20teaming-00e5a0?style=for-the-badge&labelColor=0b0b14" alt="Leveling up: red teaming" />
+<br/>
+<img src="https://img.shields.io/badge/OPEN%20TO-security%20people%20and%20great%20collabs-a78bfa?style=for-the-badge&labelColor=0b0b14" alt="Open to: security people and great collabs" />
+<br/>
+<a href="https://vux06.medium.com"><img src="https://img.shields.io/badge/WRITES-notes%20and%20write--ups%20on%20Medium-00e5a0?style=for-the-badge&labelColor=0b0b14" alt="Writes: notes and write-ups on Medium" /></a>
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <br/><br/>
 
-<sub><i>The most effective way to do it, is to do it.</i></sub>
+<h2 align="center"><i>The most effective way to do it, is to do it.</i></h2>
 
 <br/>
 
